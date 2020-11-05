@@ -1,0 +1,6 @@
+*.app
+*.dmg
+*.dylib
+*.xcodeproj
+*.zip
+.DS_Store
